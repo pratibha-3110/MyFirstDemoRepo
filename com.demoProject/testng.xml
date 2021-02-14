@@ -6,6 +6,7 @@
       <class name="POMDemo.LoginTest"/>
       <class name="POMDemo.DashboardPage"/>
       <class name="POMDemo.poi_read"/>
+      <class name="POMDemo.UserPage"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
