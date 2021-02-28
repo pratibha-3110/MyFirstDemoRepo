@@ -17,6 +17,7 @@ public class LoginPage {
 	@FindBy(id="email")
 	private WebElement uname;
 	
+	
 	@FindBy(id="password")
 	private WebElement pass;
 	
