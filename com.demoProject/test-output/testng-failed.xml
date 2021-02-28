@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="POMDemo.poi_read">
+      <class name="POMDemo.PracticeWindowHandle">
         <methods>
-          <include name="readDat"/>
+          <include name="openNewWindow"/>
         </methods>
-      </class> <!-- POMDemo.poi_read -->
+      </class> <!-- POMDemo.PracticeWindowHandle -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
